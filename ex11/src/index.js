@@ -2,7 +2,7 @@ function main(){
     //Only change below this line
     var lastName = "Tesla";
     var thirdLetterOfLastName = lastName[2];
-    //Only change below this line
+    //Only change above this line
 
     return thirdLetterOfLastName;
 }
