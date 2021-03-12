@@ -2,8 +2,7 @@ function main(){
     //Only change below this line
     var lastName = "Tesla"
     var lastLetterOfLastName = lastName[lastName.length - 1]
-    
-    //Only change below this line
+    //Only change above this line
 
     return lastLetterOfLastName;
 }
