@@ -2,8 +2,7 @@ function main(){
     //Only change below this line
     var lastName = "Bezos"
     var thirdToLastLetterOfLastName = lastName[lastName.length - 3]
-    
-    //Only change below this line
+    //Only change above this line
 
     return thirdToLastLetterOfLastName;
 }
